@@ -1,4 +1,4 @@
 Declarações de variáveis - testes OK
 Leitura de entradas do programa - testes OK
 Criação da função soma - testes OK
-Criação da função subtração
+Criação da função subtração - testes OK
